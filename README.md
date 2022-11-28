@@ -1,3 +1,3 @@
 # diabetes-analysis
 November is the diabetes awareness month and millions of people live with it.
-I am going to study the dataset bringing analysis.
+I am going to study the dataset bringing analysis to empower the decision to enter the market.
